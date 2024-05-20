@@ -4,3 +4,4 @@ Next.js
 Tailwindcss
 Framer Motion
 Aceternity UI
+Three.js
