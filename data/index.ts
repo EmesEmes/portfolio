@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "I'm a FullStack Developer based in Ecuador",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -49,8 +49,8 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
-      description: "The Inside Scoop",
+      title: "Trying to learn new things every day",
+      description: "Never stop learning",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -107,34 +107,29 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Emilio was a game-changer for our company. His creativity and technical expertise transformed our vision into a beautifully crafted website. His ability to blend design and functionality is unmatched. Highly recommend him for anyone looking to make an impact online.",
+      name: "Jonathan Reed",
+      title: "CEO of Nexus Innovations",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Emilio's approach to problem-solving is extraordinary. He quickly identified areas of improvement and implemented solutions that enhanced both the performance and user experience of our platform. His attention to detail and commitment to quality are truly impressive.",
+      name: "Rachel Turner",
+      title: "CTO of SkyPoint Enterprises",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Emilio was a seamless and productive experience. His innovative mindset and technical skills brought our project to life in ways we hadn't imagined. Emilio's dedication to excellence makes him a valuable asset to any team.",
+      name: "Olivia Martinez",
+      title: "Founder of BrightPath Solutions",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Emilio has an exceptional ability to translate complex ideas into intuitive designs. His work not only exceeded our expectations but also resonated strongly with our audience. If you're looking for a professional who delivers beyond the ordinary, Emilio is your person.",
+      name: "Chris Bennett",
       title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
+    }
+    
   ];
   
   export const companies = [
@@ -205,13 +200,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      href: "https://github.com/EmesEmes"
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      href: "https://www.linkedin.com/in/emilio-del-hierro-368b66243/"
     },
   ];
